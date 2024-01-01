@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,5.24,Central Turkey,-979649817250,1652115715210,,https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup902870,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup902870&format=geojson,,,,,reviewed,0,422,iscgemsup,902870,",iscgemsup902870,",",iscgemsup,",",origin,",,,,,mw,earthquake,M 5.2 - Central Turkey,0,Point,"[33.821, 39.466, 15]",0

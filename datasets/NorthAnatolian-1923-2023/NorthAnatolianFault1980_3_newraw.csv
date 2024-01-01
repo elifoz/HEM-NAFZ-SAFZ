@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,3.8,"20 km NW of Mýrina, Greece",333715631300,1415316264895,,https://earthquake.usgs.gov/earthquakes/eventpage/usp0001951,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp0001951&format=geojson,,,,,reviewed,0,222,us,p0001951,",usp0001951,",",us,",",origin,",,,,,ml,earthquake,"M 3.8 - 20 km NW of Mýrina, Greece",0,Point,"[24.927, 40.022, 10]",0

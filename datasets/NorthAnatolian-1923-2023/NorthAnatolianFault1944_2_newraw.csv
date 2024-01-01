@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,5.65,"4 km SSW of Düzce, Turkey",-812315956100,1650999969636,,https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899351,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem899351&format=geojson,,,,,reviewed,0,491,iscgem,899351,",iscgem899351,",",iscgem,",",origin,",,,,,mw,earthquake,"M 5.7 - 4 km SSW of Düzce, Turkey",0,Point,"[31.15, 40.798, 15]",0

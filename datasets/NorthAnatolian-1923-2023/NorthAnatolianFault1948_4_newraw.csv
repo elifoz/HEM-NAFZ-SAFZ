@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,5.73,"8 km SW of Mudanya, Turkey",-666904510290,1650998740149,,https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897633,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem897633&format=geojson,,,,,reviewed,0,505,iscgem,897633,",iscgem897633,",",iscgem,",",origin,",,,,,mw,earthquake,"M 5.7 - 8 km SW of Mudanya, Turkey",0,Point,"[28.814, 40.315, 15]",0

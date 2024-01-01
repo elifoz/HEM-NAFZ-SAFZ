@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,5.16,"5 km S of Alapl?, Turkey",-1156019938350,1652116957568,,https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup905567,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup905567&format=geojson,,,,,reviewed,0,410,iscgemsup,905567,",iscgemsup905567,",",iscgemsup,",",origin,",,,,,mw,earthquake,"M 5.2 - 5 km S of Alapl?, Turkey",0,Point,"[31.382, 41.129, 15]",0

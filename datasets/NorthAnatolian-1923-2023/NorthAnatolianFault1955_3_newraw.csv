@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,5.59,"23 km WNW of Gökçeada, Turkey",-460167921440,1650994473366,,https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889598,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem889598&format=geojson,,,5.364,,reviewed,0,481,iscgem,889598,",iscgem889598,",",iscgem,",",origin,shakemap,",,,,,mw,earthquake,"M 5.6 - 23 km WNW of Gökçeada, Turkey",0,Point,"[25.653, 40.274, 15]",0

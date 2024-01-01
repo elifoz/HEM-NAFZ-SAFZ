@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,5.24,"30 km NW of Skýros, Greece",-554614115350,1652127503374,,https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup892988,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup892988&format=geojson,,,,,reviewed,0,422,iscgemsup,892988,",iscgemsup892988,",",iscgemsup,",",origin,",,,,,mw,earthquake,"M 5.2 - 30 km NW of Skýros, Greece",0,Point,"[24.288, 39.073, 15]",0

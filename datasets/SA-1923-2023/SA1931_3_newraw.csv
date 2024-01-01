@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,4.8,"3 km SSW of San Luis Obispo, California",-1213357920000,1528145024000,,https://earthquake.usgs.gov/earthquakes/eventpage/ushis874,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ushis874&format=geojson,,,,,reviewed,0,354,ushis,874,",ushis874,",",ushis,",",impact-text,origin,",,,,,uk,earthquake,"M 4.8 - 3 km SSW of San Luis Obispo, California",0,Point,"[-120.67, 35.25, None]",0

@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,7.5,"6 km SSE of Ilgaz, Turkey",-823570751440,1651000486525,,https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900102,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem900102&format=geojson,,,7.378,,reviewed,0,865,iscgem,900102,",iscgem900102,",",iscgem,",",origin,shakemap,",,,,,mw,earthquake,"M 7.5 - 6 km SSE of Ilgaz, Turkey",0,Point,"[33.651, 40.867, 20]",0

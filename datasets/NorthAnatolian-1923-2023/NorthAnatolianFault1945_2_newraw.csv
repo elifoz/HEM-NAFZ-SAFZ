@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,5.75,"12 km SSW of Daday, Turkey",-783696014570,1650999585127,,https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898823,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem898823&format=geojson,,,,,reviewed,0,509,iscgem,898823,",iscgem898823,",",iscgem,",",origin,",,,,,mw,earthquake,"M 5.8 - 12 km SSW of Daday, Turkey",0,Point,"[33.433, 41.373, 15]",0

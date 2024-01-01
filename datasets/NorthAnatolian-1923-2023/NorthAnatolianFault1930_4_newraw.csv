@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,5.81,"24 km S of ?iran, Turkey",-1232630909990,1650926126378,,https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907795,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem907795&format=geojson,,,,,reviewed,0,519,iscgem,907795,",iscgem907795,",",iscgem,",",origin,",,,,,mw,earthquake,"M 5.8 - 24 km S of ?iran, Turkey",0,Point,"[39.152, 39.972, 15]",0

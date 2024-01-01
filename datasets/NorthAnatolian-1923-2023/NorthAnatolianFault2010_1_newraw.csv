@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,4.4,"28 km SSW of ?mranl?, Turkey",1264996902870,1415324437284,,https://earthquake.usgs.gov/earthquakes/eventpage/usp000h6ug,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000h6ug&format=geojson,,,,,reviewed,0,298,us,p000h6ug,",usp000h6ug,",",us,",",impact-text,origin,phase-data,",58,,0.98,93.6,mb,earthquake,"M 4.4 - 28 km SSW of ?mranl?, Turkey",0,Point,"[37.98, 39.645, 10]",0

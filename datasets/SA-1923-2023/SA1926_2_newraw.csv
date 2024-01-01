@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,5.5,"15 km SSE of Twentynine Palms, California",-1380513060000,1528145024000,,https://earthquake.usgs.gov/earthquakes/eventpage/ushis738,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ushis738&format=geojson,,,,,reviewed,0,465,ushis,738,",ushis738,",",ushis,",",impact-text,origin,",,,,,ml,earthquake,"M 5.5 - 15 km SSE of Twentynine Palms, California",0,Point,"[-116, 34, None]",0

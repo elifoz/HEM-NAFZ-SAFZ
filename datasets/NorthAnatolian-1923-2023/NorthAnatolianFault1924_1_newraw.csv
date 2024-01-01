@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,5.62,"40 km W of Bozcaada, Turkey",-1447685929870,1650929367114,,https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910837,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem910837&format=geojson,,,,,reviewed,0,486,iscgem,910837,",iscgem910837,",",iscgem,",",origin,",,,,,mw,earthquake,"M 5.6 - 40 km W of Bozcaada, Turkey",0,Point,"[25.599, 39.787, 15]",0

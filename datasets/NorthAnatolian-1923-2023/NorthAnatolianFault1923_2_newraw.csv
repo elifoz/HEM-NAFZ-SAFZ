@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,5.88,"20 km SSE of Artova, Turkey",-1472999118130,1650929721036,,https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911346,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem911346&format=geojson,,,,,reviewed,0,532,iscgem,911346,",iscgem911346,",",iscgem,",",origin,",,,,,mw,earthquake,"M 5.9 - 20 km SSE of Artova, Turkey",0,Point,"[36.367, 39.934, 15]",0

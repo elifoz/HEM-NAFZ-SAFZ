@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,5.15,"7 km SW of Çerke?, Turkey",-174697776780,1651017877040,,https://earthquake.usgs.gov/earthquakes/eventpage/iscgem867026,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem867026&format=geojson,,,,,reviewed,0,408,iscgem,867026,",iscgem867026,",",iscgem,",",origin,",,,,,mw,earthquake,"M 5.2 - 7 km SW of Çerke?, Turkey",0,Point,"[32.822, 40.772, 10]",0

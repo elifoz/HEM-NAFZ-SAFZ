@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,4.5,"15 km N of ?hsangazi, Turkey",1258855307000,1415324408031,,https://earthquake.usgs.gov/earthquakes/eventpage/usp000h4a1,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000h4a1&format=geojson,,,,,reviewed,0,312,us,p000h4a1,",usp000h4a1,",",us,",",impact-text,origin,phase-data,",100,,,53.7,mb,earthquake,"M 4.5 - 15 km N of ?hsangazi, Turkey",0,Point,"[33.555, 41.347, 5]",0

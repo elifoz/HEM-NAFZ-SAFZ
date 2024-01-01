@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,6.14,"4 km N of Koruköy, Turkey",-198399705160,1651019243880,,https://earthquake.usgs.gov/earthquakes/eventpage/iscgem873085,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem873085&format=geojson,,,6.463,,reviewed,0,580,iscgem,873085,",iscgem873085,",",iscgem,",",origin,shakemap,",,,,,mw,earthquake,"M 6.1 - 4 km N of Koruköy, Turkey",0,Point,"[29.159, 40.698, 30]",0

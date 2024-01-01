@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,5,"9 km SW of Davenport, California",-1353024356500,1528145024000,,https://earthquake.usgs.gov/earthquakes/eventpage/ushis759,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ushis759&format=geojson,,,,,reviewed,0,385,ushis,759,",ushis759,",",ushis,",",impact-text,origin,",,,,,ml,earthquake,"M 5.0 - 9 km SW of Davenport, California",0,Point,"[-122.267, 36.95, None]",0

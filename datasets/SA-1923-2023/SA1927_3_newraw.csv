@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,5.3,"2 km SSW of Santa Monica, California",-1338377760000,1528145024000,,https://earthquake.usgs.gov/earthquakes/eventpage/ushis770,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ushis770&format=geojson,,,,,reviewed,0,432,ushis,770,",ushis770,",",ushis,",",impact-text,origin,",,,,,uk,earthquake,"M 5.3 - 2 km SSW of Santa Monica, California",0,Point,"[-118.5, 34, None]",0

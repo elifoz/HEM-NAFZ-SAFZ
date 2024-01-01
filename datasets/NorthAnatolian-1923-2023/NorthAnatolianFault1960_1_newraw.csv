@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,5.26,"9 km ENE of Gölova, Turkey",-313423665320,1652124472526,,https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup878113,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup878113&format=geojson,,,,,reviewed,0,426,iscgemsup,878113,",iscgemsup878113,",",iscgemsup,",",origin,",,,,,mw,earthquake,"M 5.3 - 9 km ENE of Gölova, Turkey",0,Point,"[38.701, 40.104, 25]",0

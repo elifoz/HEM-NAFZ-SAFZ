@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,5.63,"52 km NW of Eresós, Greece",-377379700950,1650991993289,,https://earthquake.usgs.gov/earthquakes/eventpage/iscgem883703,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem883703&format=geojson,,,,,reviewed,0,488,iscgem,883703,",iscgem883703,",",iscgem,",",origin,",,,,,mw,earthquake,"M 5.6 - 52 km NW of Eresós, Greece",0,Point,"[25.473, 39.476, 15]",0

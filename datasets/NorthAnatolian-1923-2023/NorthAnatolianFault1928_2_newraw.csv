@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,6.23,"23 km SE of Yenice, Turkey",-1314842727560,1650927128235,,https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908659,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem908659&format=geojson,,,,,reviewed,0,597,iscgem,908659,",iscgem908659,",",iscgem,",",origin,",,,,,mw,earthquake,"M 6.2 - 23 km SE of Yenice, Turkey",0,Point,"[29.121, 39.627, 15]",0

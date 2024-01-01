@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,4.2,"55 km NNE of Skýros, Greece",139160380700,1415316084459,,https://earthquake.usgs.gov/earthquakes/eventpage/usp00006jw,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp00006jw&format=geojson,,,,,reviewed,0,271,us,p00006jw,",usp00006jw,",",us,",",origin,",,,,,mb,earthquake,"M 4.2 - 55 km NNE of Skýros, Greece",0,Point,"[24.862, 39.344, 38]",0

@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,5.06,"25 km SW of Bafra, Turkey",-1273790137240,1652117909674,,https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup908281,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup908281&format=geojson,,,,,reviewed,0,394,iscgemsup,908281,",iscgemsup908281,",",iscgemsup,",",origin,",,,,,mw,earthquake,"M 5.1 - 25 km SW of Bafra, Turkey",0,Point,"[35.695, 41.4, 15]",0

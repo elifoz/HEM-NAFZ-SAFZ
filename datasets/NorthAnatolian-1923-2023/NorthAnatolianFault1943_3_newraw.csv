@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,6.44,"11 km NNE of Tarakl?, Turkey",-837332826610,1651000340905,,https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899896,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem899896&format=geojson,,,,,reviewed,0,638,iscgem,899896,",iscgem899896,",",iscgem,",",origin,",,,,,mw,earthquake,"M 6.4 - 11 km NNE of Tarakl?, Turkey",0,Point,"[30.525, 40.5, 15]",0

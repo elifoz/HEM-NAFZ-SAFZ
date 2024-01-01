@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,4.7,"9 km SW of Parkfield, California",-1226152740000,1528145024000,,https://earthquake.usgs.gov/earthquakes/eventpage/ushis866,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ushis866&format=geojson,,,,,reviewed,0,340,ushis,866,",ushis866,",",ushis,",",impact-text,origin,",,,,,uk,earthquake,"M 4.7 - 9 km SW of Parkfield, California",0,Point,"[-120.5, 35.83, None]",0

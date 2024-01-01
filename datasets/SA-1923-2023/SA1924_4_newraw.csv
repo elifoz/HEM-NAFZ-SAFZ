@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,4,"1 km WSW of Salinas, California",-1420400340000,1528145024000,,https://earthquake.usgs.gov/earthquakes/eventpage/ushis712,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ushis712&format=geojson,,,,,reviewed,0,246,ushis,712,",ushis712,",",ushis,",",impact-text,origin,",,,,,ml,earthquake,"M 4.0 - 1 km WSW of Salinas, California",0,Point,"[-121.67, 36.67, None]",0

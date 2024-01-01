@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,5.26,"26 km NE of Kefken, Turkey",-1405036762270,1652118612269,,https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup910557,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgemsup910557&format=geojson,,,,,reviewed,0,426,iscgemsup,910557,",iscgemsup910557,",",iscgemsup,",",origin,",,,,,mw,earthquake,"M 5.3 - 26 km NE of Kefken, Turkey",0,Point,"[30.453, 41.341, 15]",0

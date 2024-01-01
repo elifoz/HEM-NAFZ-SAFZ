@@ -1,0 +1,2 @@
+,mag,place,time,updated,tz,url,detail,felt,cdi,mmi,alert,status,tsunami,sig,net,code,ids,sources,types,nst,dmin,rms,gap,magType,type,title,index,type,coordinates,index
+0,5.25,"21 km SSW of Aslanapa, Turkey",58304628750,1651006845702,,https://earthquake.usgs.gov/earthquakes/eventpage/iscgem778354,https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=iscgem778354&format=geojson,,,,,reviewed,0,424,iscgem,778354,",iscgem778354,",",iscgem,",",origin,",,,,,mw,earthquake,"M 5.3 - 21 km SSW of Aslanapa, Turkey",0,Point,"[29.772, 39.042, 15]",0
